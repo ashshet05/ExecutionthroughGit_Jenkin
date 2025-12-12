@@ -1,5 +1,8 @@
 package Jenkin;
 
+import org.testng.annotations.Test;
+
+@Test
 public class Demo2 
 {
 	public void m2()
